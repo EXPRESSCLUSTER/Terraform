@@ -22,7 +22,6 @@ Terraform
 ```
 
 ## Reference
-[I tried to automatically build an HA cluster environment using Resource Manager on Oracle Cloud Infrastructure (Windows / Linux)
-EXPRESSCLUSTER Official Blog-Clublo-](https://translate.google.com/translate?sl=ja&tl=en&u=https://jpn.nec.com/clusterpro/blog/20210531.html?)  
+[I tried to automatically build an HA cluster environment using Resource Manager on Oracle Cloud Infrastructure (Windows / Linux)](https://translate.google.com/translate?sl=ja&tl=en&u=https://jpn.nec.com/clusterpro/blog/20210531.html?)  
 
 (We translated using the automatic translation function by Google Translate.)
